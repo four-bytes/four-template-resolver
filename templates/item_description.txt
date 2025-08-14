@@ -1,0 +1,1 @@
+Label: {{label}} | Released: {{releaseDate}} | Format: {{format}} | Description: {{description}}

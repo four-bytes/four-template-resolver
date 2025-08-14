@@ -1,0 +1,10 @@
+parameters:
+    level: 8
+    paths:
+        - src
+        - tests
+    ignoreErrors:
+        -
+            identifier: missingType.iterableValue
+        - '#Access to an undefined property object::\$\w+#'
+    reportUnmatchedIgnoredErrors: false

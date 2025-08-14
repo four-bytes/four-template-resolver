@@ -1,0 +1,10 @@
+Thank you for your order!
+
+{{#if customerName}}Dear {{customerName}},{{/if}}
+
+Your order has been successfully processed and will be shipped soon.
+
+Tip: Check out our online shop at https://supremechaos.com for pre-orders and special offers.
+
+Best regards,
+Your Team

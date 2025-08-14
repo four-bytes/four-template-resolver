@@ -1,0 +1,27 @@
+🔥 AUCTION: {{name}} 🔥
+
+{{#if artist}}
+🎵 Artist: {{artist}}
+{{/if}}
+📅 Release: {{releaseDate}}
+💿 Format: {{format}}
+💰 Price: {{formattedPrice}}
+
+{{#if description}}
+📖 DESCRIPTION:
+{{description}}
+{{/if}}
+
+{{#if condition}}
+📦 CONDITION: {{condition}}
+{{/if}}
+
+⚡ Fast shipping worldwide!
+🛡️ 100% authentic merchandise
+💯 Top-rated seller
+
+{{#if tags}}
+🏷️ Categories: {{#each tags}}#{{value}} {{/each}}
+{{/if}}
+
+Don't miss this opportunity to own this amazing piece!

@@ -1,0 +1,10 @@
+Danke für Ihre Bestellung!
+
+{{#if customerName}}Liebe/r {{customerName}},{{/if}}
+
+Ihre Bestellung wurde erfolgreich bearbeitet und wird in Kürze versandt.
+
+Tipp: In unserem Online-Shop unter https://supremechaos.com finden Sie auch Vorbestellungen und besondere Angebote.
+
+Mit freundlichen Grüßen
+Ihr Team

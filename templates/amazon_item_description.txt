@@ -1,0 +1,16 @@
+🎵 {{name}} 🎵
+
+Artist: {{artist}}
+Format: {{format}}
+Release Date: {{releaseDate}}
+Price: {{formattedPrice}}
+
+{{#if description}}
+{{description}}
+{{/if}}
+
+{{#if tags}}
+Tags: {{#each tags}}{{value}}{{#if @index}}, {{/if}}{{/each}}
+{{/if}}
+
+Perfect for music lovers and collectors!
