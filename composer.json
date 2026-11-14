@@ -1,15 +1,14 @@
 {
     "name": "four-bytes/four-template-resolver",
-    "description": "Modern PHP template resolver with entity-based processing, hierarchical fallback, and multi-language support",
+    "description": "PHP 8.4+ template resolver with entity-based data extraction, hierarchical fallback and multi-language support",
     "type": "library",
     "keywords": [
         "template",
         "templating",
-        "php",
         "entity",
         "reflection",
         "multilingual",
-        "marketplace"
+        "php"
     ],
     "homepage": "https://github.com/four-bytes/four-template-resolver",
     "license": "MIT",
